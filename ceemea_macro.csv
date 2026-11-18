@@ -1,0 +1,463 @@
+country,year,indicator,value
+Egypt,2025,GDP growth (%),4.39201068570188
+Egypt,2024,GDP growth (%),2.3991692678251
+Egypt,2023,GDP growth (%),3.76028052279247
+Egypt,2022,GDP growth (%),6.58784560870467
+Egypt,2021,GDP growth (%),3.29064601193245
+Egypt,2020,GDP growth (%),3.55016483883115
+Egypt,2019,GDP growth (%),5.55209307084222
+Egypt,2018,GDP growth (%),5.33110861887155
+Egypt,2017,GDP growth (%),4.18122099961562
+Egypt,2016,GDP growth (%),4.34664345601914
+Egypt,2015,GDP growth (%),4.37201907781687
+Kazakhstan,2025,GDP growth (%),6.5
+Kazakhstan,2024,GDP growth (%),4.99999999996936
+Kazakhstan,2023,GDP growth (%),5.09999999973641
+Kazakhstan,2022,GDP growth (%),3.19999999970734
+Kazakhstan,2021,GDP growth (%),4.29999999729456
+Kazakhstan,2020,GDP growth (%),-2.49999999628
+Kazakhstan,2019,GDP growth (%),4.50000000091883
+Kazakhstan,2018,GDP growth (%),4.09999999309841
+Kazakhstan,2017,GDP growth (%),4.10000000257358
+Kazakhstan,2016,GDP growth (%),1.09999999910173
+Kazakhstan,2015,GDP growth (%),1.20000000053288
+Nigeria,2025,GDP growth (%),4.01336180700973
+Nigeria,2024,GDP growth (%),4.07106650147703
+Nigeria,2023,GDP growth (%),3.31590368111438
+Nigeria,2022,GDP growth (%),4.31882949157136
+Nigeria,2021,GDP growth (%),1.109252540249
+Nigeria,2020,GDP growth (%),-6.36889840468527
+Nigeria,2019,GDP growth (%),2.20842927835211
+Nigeria,2018,GDP growth (%),1.92275734199798
+Nigeria,2017,GDP growth (%),0.805886619091581
+Nigeria,2016,GDP growth (%),-1.61686894903467
+Nigeria,2015,GDP growth (%),2.65269329541779
+Poland,2025,GDP growth (%),3.5727250346774
+Poland,2024,GDP growth (%),3.02841630700273
+Poland,2023,GDP growth (%),0.249610834017872
+Poland,2022,GDP growth (%),5.25545697386036
+Poland,2021,GDP growth (%),6.92718266052501
+Poland,2020,GDP growth (%),-2.03556882399977
+Poland,2019,GDP growth (%),4.58045817256199
+Poland,2018,GDP growth (%),6.2458584723942
+Poland,2017,GDP growth (%),5.15245773325907
+Poland,2016,GDP growth (%),3.03117767594847
+Poland,2015,GDP growth (%),4.43176700264478
+Saudi Arabia,2025,GDP growth (%),4.50246560191663
+Saudi Arabia,2024,GDP growth (%),2.64893068308965
+Saudi Arabia,2023,GDP growth (%),0.542592439393161
+Saudi Arabia,2022,GDP growth (%),12.0005874752929
+Saudi Arabia,2021,GDP growth (%),6.51959698325419
+Saudi Arabia,2020,GDP growth (%),-3.80478901996312
+Saudi Arabia,2019,GDP growth (%),1.65158925617395
+Saudi Arabia,2018,GDP growth (%),3.2269508901591
+Saudi Arabia,2017,GDP growth (%),1.18210705878283
+Saudi Arabia,2016,GDP growth (%),1.70404739202878
+Saudi Arabia,2015,GDP growth (%),4.65512316652699
+Turkey,2025,GDP growth (%),3.60462514082589
+Turkey,2024,GDP growth (%),3.3276230893799
+Turkey,2023,GDP growth (%),5.04512369812289
+Turkey,2022,GDP growth (%),5.44122511322401
+Turkey,2021,GDP growth (%),11.811094450607
+Turkey,2020,GDP growth (%),1.80306247087255
+Turkey,2019,GDP growth (%),1.30162365464503
+Turkey,2018,GDP growth (%),3.46815306092219
+Turkey,2017,GDP growth (%),7.82585730002594
+Turkey,2016,GDP growth (%),3.32366508200445
+Turkey,2015,GDP growth (%),5.80557386628684
+South Africa,2025,GDP growth (%),1.11462608103956
+South Africa,2024,GDP growth (%),0.534843531905139
+South Africa,2023,GDP growth (%),0.80610455095804
+South Africa,2022,GDP growth (%),2.05813661692193
+South Africa,2021,GDP growth (%),4.85864865060148
+South Africa,2020,GDP growth (%),-6.1689177146757
+South Africa,2019,GDP growth (%),0.25993557687633
+South Africa,2018,GDP growth (%),1.55678384721676
+South Africa,2017,GDP growth (%),1.15794695181735
+South Africa,2016,GDP growth (%),0.664552307858116
+South Africa,2015,GDP growth (%),1.32186223678229
+Egypt,2025,Inflation (%),14.0735136645933
+Egypt,2024,Inflation (%),28.2705899322082
+Egypt,2023,Inflation (%),33.8847763115546
+Egypt,2022,Inflation (%),13.8956609775177
+Egypt,2021,Inflation (%),5.21404940513042
+Egypt,2020,Inflation (%),5.04493288977538
+Egypt,2019,Inflation (%),9.15279959324803
+Egypt,2018,Inflation (%),14.4014657807421
+Egypt,2017,Inflation (%),29.5066083940038
+Egypt,2016,Inflation (%),13.8136062148289
+Egypt,2015,Inflation (%),10.370490343517
+Kazakhstan,2025,Inflation (%),11.3789456104214
+Kazakhstan,2024,Inflation (%),8.67566095952575
+Kazakhstan,2023,Inflation (%),14.5222753412318
+Kazakhstan,2022,Inflation (%),14.9948211297904
+Kazakhstan,2021,Inflation (%),7.96011920034767
+Kazakhstan,2020,Inflation (%),6.80371915011852
+Kazakhstan,2019,Inflation (%),5.33356098916675
+Kazakhstan,2018,Inflation (%),6.16366247577757
+Kazakhstan,2017,Inflation (%),7.44266321306793
+Kazakhstan,2016,Inflation (%),14.3610942386247
+Kazakhstan,2015,Inflation (%),6.67828585615228
+Nigeria,2025,Inflation (%),23.0101235833333
+Nigeria,2024,Inflation (%),33.2416590552748
+Nigeria,2023,Inflation (%),24.6595502031139
+Nigeria,2022,Inflation (%),18.8471877843274
+Nigeria,2021,Inflation (%),16.9528457221607
+Nigeria,2020,Inflation (%),13.2460234276598
+Nigeria,2019,Inflation (%),11.3964223378114
+Nigeria,2018,Inflation (%),12.0951065173431
+Nigeria,2017,Inflation (%),16.5022662139641
+Nigeria,2016,Inflation (%),15.6968126387972
+Nigeria,2015,Inflation (%),9.00943498007706
+Poland,2025,Inflation (%),3.81419531520146
+Poland,2024,Inflation (%),3.79060897630196
+Poland,2023,Inflation (%),11.5289127961104
+Poland,2022,Inflation (%),14.4294507575757
+Poland,2021,Inflation (%),5.05502704719272
+Poland,2020,Inflation (%),3.37446972618589
+Poland,2019,Inflation (%),2.22747880938291
+Poland,2018,Inflation (%),1.81295156542688
+Poland,2017,Inflation (%),2.07593553673859
+Poland,2016,Inflation (%),-0.664767331433962
+Poland,2015,Inflation (%),-0.874125874125862
+Saudi Arabia,2025,Inflation (%),2.03559944812264
+Saudi Arabia,2024,Inflation (%),1.50098521057891
+Saudi Arabia,2023,Inflation (%),2.47391224946225
+Saudi Arabia,2022,Inflation (%),2.5441644569453
+Saudi Arabia,2021,Inflation (%),3.12995508227416
+Saudi Arabia,2020,Inflation (%),3.18677098411784
+Saudi Arabia,2019,Inflation (%),-2.03668661515358
+Saudi Arabia,2018,Inflation (%),2.4733093049351
+Saudi Arabia,2017,Inflation (%),-0.859586773607416
+Saudi Arabia,2016,Inflation (%),2.91657616797142
+Saudi Arabia,2015,Inflation (%),1.18395043440954
+Turkey,2025,Inflation (%),34.8811700293777
+Turkey,2024,Inflation (%),58.5064492168435
+Turkey,2023,Inflation (%),53.8594084019764
+Turkey,2022,Inflation (%),72.3088300496956
+Turkey,2021,Inflation (%),19.5964927532842
+Turkey,2020,Inflation (%),12.2789597724893
+Turkey,2019,Inflation (%),15.176809642769
+Turkey,2018,Inflation (%),16.3324781477783
+Turkey,2017,Inflation (%),11.1443085201022
+Turkey,2016,Inflation (%),7.7751335303658
+Turkey,2015,Inflation (%),7.67085521554052
+South Africa,2025,Inflation (%),3.20550474112603
+South Africa,2024,Inflation (%),4.36115246518962
+South Africa,2023,Inflation (%),6.07524384579659
+South Africa,2022,Inflation (%),7.03987272546481
+South Africa,2021,Inflation (%),4.61874544887136
+South Africa,2020,Inflation (%),3.23238831615113
+South Africa,2019,Inflation (%),4.10285075461155
+South Africa,2018,Inflation (%),4.50987264867387
+South Africa,2017,Inflation (%),5.18618655524149
+South Africa,2016,Inflation (%),6.60290842394871
+South Africa,2015,Inflation (%),4.51869094892506
+Egypt,2025,Current account (% GDP),-3.81547628555514
+Egypt,2024,Current account (% GDP),-5.68596234093522
+Egypt,2023,Current account (% GDP),-3.17338763053557
+Egypt,2022,Current account (% GDP),-2.2100904275198
+Egypt,2021,Current account (% GDP),-4.38240299812
+Egypt,2020,Current account (% GDP),-3.70903990583373
+Egypt,2019,Current account (% GDP),-3.20758543154937
+Egypt,2018,Current account (% GDP),-2.93164483711978
+Egypt,2017,Current account (% GDP),-3.19681566782461
+Egypt,2016,Current account (% GDP),-6.16465951871263
+Egypt,2015,Current account (% GDP),-5.23529137853431
+Kazakhstan,2025,Current account (% GDP),-4.06579066364776
+Kazakhstan,2024,Current account (% GDP),-2.32054721716038
+Kazakhstan,2023,Current account (% GDP),-3.16389675969422
+Kazakhstan,2022,Current account (% GDP),2.85432700775767
+Kazakhstan,2021,Current account (% GDP),-1.35935671668035
+Kazakhstan,2020,Current account (% GDP),-6.46182057750932
+Kazakhstan,2019,Current account (% GDP),-3.8684220835049
+Kazakhstan,2018,Current account (% GDP),-0.984581633983154
+Kazakhstan,2017,Current account (% GDP),-2.05429721551443
+Kazakhstan,2016,Current account (% GDP),-5.07331546745494
+Kazakhstan,2015,Current account (% GDP),-5.4122312771503
+Nigeria,2025,Current account (% GDP),4.82784315736378
+Nigeria,2024,Current account (% GDP),7.54413457345489
+Nigeria,2023,Current account (% GDP),1.31788745938512
+Nigeria,2022,Current account (% GDP),0.15744623858689
+Nigeria,2021,Current account (% GDP),-0.534215770600622
+Nigeria,2020,Current account (% GDP),-2.67061135743946
+Nigeria,2019,Current account (% GDP),-2.0480110074494
+Nigeria,2018,Current account (% GDP),1.72693303668361
+Nigeria,2017,Current account (% GDP),3.60982550121523
+Nigeria,2016,Current account (% GDP),1.25472098152786
+Nigeria,2015,Current account (% GDP),-3.13140101186134
+Poland,2025,Current account (% GDP),-0.953363430850522
+Poland,2024,Current account (% GDP),0.30454349270969
+Poland,2023,Current account (% GDP),1.53683077845046
+Poland,2022,Current account (% GDP),-2.27455866454271
+Poland,2021,Current account (% GDP),-1.30156521580162
+Poland,2020,Current account (% GDP),2.39835922164097
+Poland,2019,Current account (% GDP),-0.272945793712772
+Poland,2018,Current account (% GDP),-1.96597258830492
+Poland,2017,Current account (% GDP),-1.18631971999704
+Poland,2016,Current account (% GDP),-1.06875798055693
+Poland,2015,Current account (% GDP),-1.3254755565429
+Saudi Arabia,2025,Current account (% GDP),-2.56365940191401
+Saudi Arabia,2024,Current account (% GDP),-1.29603148573183
+Saudi Arabia,2023,Current account (% GDP),2.12936729495784
+Saudi Arabia,2022,Current account (% GDP),11.7294510759776
+Saudi Arabia,2021,Current account (% GDP),4.56976271965319
+Saudi Arabia,2020,Current account (% GDP),-4.51692116727614
+Saudi Arabia,2019,Current account (% GDP),3.64484004485363
+Saudi Arabia,2018,Current account (% GDP),7.89890750977747
+Saudi Arabia,2017,Current account (% GDP),1.2254608961689
+Saudi Arabia,2016,Current account (% GDP),-3.91268584311643
+Saudi Arabia,2015,Current account (% GDP),-7.93818281494483
+Turkey,2025,Current account (% GDP),-1.89933817058389
+Turkey,2024,Current account (% GDP),-0.958485187243091
+Turkey,2023,Current account (% GDP),-3.66451360136676
+Turkey,2022,Current account (% GDP),-5.03921035996332
+Turkey,2021,Current account (% GDP),-0.841490012048298
+Turkey,2020,Current account (% GDP),-4.22884480277712
+Turkey,2019,Current account (% GDP),1.93503114755598
+Turkey,2018,Current account (% GDP),-1.85296766104815
+Turkey,2017,Current account (% GDP),-4.06783613710293
+Turkey,2016,Current account (% GDP),-2.54530792537505
+Turkey,2015,Current account (% GDP),-2.46712716353959
+South Africa,2025,Current account (% GDP),-0.422766754018983
+South Africa,2024,Current account (% GDP),-0.642799797075048
+South Africa,2023,Current account (% GDP),-1.10356312207881
+South Africa,2022,Current account (% GDP),-0.29618259812743
+South Africa,2021,Current account (% GDP),3.77241369345008
+South Africa,2020,Current account (% GDP),2.00352275153333
+South Africa,2019,Current account (% GDP),-2.61999067483039
+South Africa,2018,Current account (% GDP),-3.00051939426576
+South Africa,2017,Current account (% GDP),-2.37436753188649
+South Africa,2016,Current account (% GDP),-2.63361451678797
+South Africa,2015,Current account (% GDP),-4.31028688643788
+Egypt,2025,Reserves (months of imports),4.35960492991794
+Egypt,2024,Reserves (months of imports),4.53950764706677
+Egypt,2023,Reserves (months of imports),3.87390992001781
+Egypt,2022,Reserves (months of imports),3.32738146369501
+Egypt,2021,Reserves (months of imports),4.38225643427728
+Egypt,2020,Reserves (months of imports),5.56473451430895
+Egypt,2019,Reserves (months of imports),5.83923947440236
+Egypt,2018,Reserves (months of imports),5.85734270401284
+Egypt,2017,Reserves (months of imports),5.72306111855627
+Egypt,2016,Reserves (months of imports),3.88541069587349
+Egypt,2015,Reserves (months of imports),2.59707505474828
+Kazakhstan,2025,Reserves (months of imports),7.38619113398576
+Kazakhstan,2024,Reserves (months of imports),5.37012273083904
+Kazakhstan,2023,Reserves (months of imports),4.20119988344391
+Kazakhstan,2022,Reserves (months of imports),4.6862776351063
+Kazakhstan,2021,Reserves (months of imports),5.42839331910087
+Kazakhstan,2020,Reserves (months of imports),6.70962132483118
+Kazakhstan,2019,Reserves (months of imports),4.46057061758815
+Kazakhstan,2018,Reserves (months of imports),5.18798743503506
+Kazakhstan,2017,Reserves (months of imports),5.97546684476116
+Kazakhstan,2016,Reserves (months of imports),6.81127436878552
+Kazakhstan,2015,Reserves (months of imports),5.68829985813842
+Nigeria,2025,Reserves (months of imports),7.11796797049567
+Nigeria,2024,Reserves (months of imports),7.20884197072517
+Nigeria,2023,Reserves (months of imports),5.11997312993286
+Nigeria,2022,Reserves (months of imports),4.82273022445492
+Nigeria,2021,Reserves (months of imports),6.4228056688618
+Nigeria,2020,Reserves (months of imports),5.80242492927343
+Nigeria,2019,Reserves (months of imports),4.20823395263946
+Nigeria,2018,Reserves (months of imports),6.05210554378925
+Nigeria,2017,Reserves (months of imports),7.99776517285897
+Nigeria,2016,Reserves (months of imports),6.16907128225613
+Nigeria,2015,Reserves (months of imports),4.06769256756331
+Poland,2025,Reserves (months of imports),5.86142823595696
+Poland,2024,Reserves (months of imports),5.36718824327154
+Poland,2023,Reserves (months of imports),4.8546148136994
+Poland,2022,Reserves (months of imports),4.25614570821663
+Poland,2021,Reserves (months of imports),4.78077058564325
+Poland,2020,Reserves (months of imports),5.76793469149635
+Poland,2019,Reserves (months of imports),4.60331314972595
+Poland,2018,Reserves (months of imports),4.1489432706358
+Poland,2017,Reserves (months of imports),4.60236894876815
+Poland,2016,Reserves (months of imports),5.39230452387894
+Poland,2015,Reserves (months of imports),4.62368278059074
+Saudi Arabia,2025,Reserves (months of imports),15.5945460088131
+Saudi Arabia,2024,Reserves (months of imports),15.0571337423468
+Saudi Arabia,2023,Reserves (months of imports),16.5690894253073
+Saudi Arabia,2022,Reserves (months of imports),20.0230345579448
+Saudi Arabia,2021,Reserves (months of imports),25.1183969265183
+Saudi Arabia,2020,Reserves (months of imports),27.83499765841
+Saudi Arabia,2019,Reserves (months of imports),25.5992015113689
+Saudi Arabia,2018,Reserves (months of imports),27.2537617937105
+Saudi Arabia,2017,Reserves (months of imports),28.7798542698354
+Saudi Arabia,2016,Reserves (months of imports),31.6961891139936
+Saudi Arabia,2015,Reserves (months of imports),29.523607332364
+Turkey,2025,Reserves (months of imports),5.127654800312
+Turkey,2024,Reserves (months of imports),4.69844515171534
+Turkey,2023,Reserves (months of imports),4.15418696554689
+Turkey,2022,Reserves (months of imports),3.87655812064327
+Turkey,2021,Reserves (months of imports),4.44640226544604
+Turkey,2020,Reserves (months of imports),4.6220883288877
+Turkey,2019,Reserves (months of imports),5.18427528714443
+Turkey,2018,Reserves (months of imports),4.21757739253257
+Turkey,2017,Reserves (months of imports),4.78794864952257
+Turkey,2016,Reserves (months of imports),5.43169973687983
+Turkey,2015,Reserves (months of imports),5.46405803059575
+South Africa,2025,Reserves (months of imports),6.22465629934581
+South Africa,2024,Reserves (months of imports),5.67102712164408
+South Africa,2023,Reserves (months of imports),5.33074985880918
+South Africa,2022,Reserves (months of imports),4.91388463271698
+South Africa,2021,Reserves (months of imports),5.56291275582498
+South Africa,2020,Reserves (months of imports),7.12354295570034
+South Africa,2019,Reserves (months of imports),5.40690081512174
+South Africa,2018,Reserves (months of imports),4.81246249518315
+South Africa,2017,Reserves (months of imports),5.2254571809234
+South Africa,2016,Reserves (months of imports),5.43700662124582
+South Africa,2015,Reserves (months of imports),4.724214132513
+Egypt,2025,Govt debt (% GDP),
+Egypt,2024,Govt debt (% GDP),
+Egypt,2023,Govt debt (% GDP),
+Egypt,2022,Govt debt (% GDP),
+Egypt,2021,Govt debt (% GDP),
+Egypt,2020,Govt debt (% GDP),
+Egypt,2019,Govt debt (% GDP),
+Egypt,2018,Govt debt (% GDP),
+Egypt,2017,Govt debt (% GDP),
+Egypt,2016,Govt debt (% GDP),
+Egypt,2015,Govt debt (% GDP),
+Kazakhstan,2025,Govt debt (% GDP),
+Kazakhstan,2024,Govt debt (% GDP),
+Kazakhstan,2023,Govt debt (% GDP),20.8858497183933
+Kazakhstan,2022,Govt debt (% GDP),21.3547830101811
+Kazakhstan,2021,Govt debt (% GDP),22.4120405815457
+Kazakhstan,2020,Govt debt (% GDP),23.7157605024381
+Kazakhstan,2019,Govt debt (% GDP),18.4830469477519
+Kazakhstan,2018,Govt debt (% GDP),21.9922369362835
+Kazakhstan,2017,Govt debt (% GDP),16.9303582595661
+Kazakhstan,2016,Govt debt (% GDP),16.7694252748762
+Kazakhstan,2015,Govt debt (% GDP),19.307916061599
+Nigeria,2025,Govt debt (% GDP),
+Nigeria,2024,Govt debt (% GDP),
+Nigeria,2023,Govt debt (% GDP),
+Nigeria,2022,Govt debt (% GDP),
+Nigeria,2021,Govt debt (% GDP),
+Nigeria,2020,Govt debt (% GDP),
+Nigeria,2019,Govt debt (% GDP),
+Nigeria,2018,Govt debt (% GDP),
+Nigeria,2017,Govt debt (% GDP),
+Nigeria,2016,Govt debt (% GDP),
+Nigeria,2015,Govt debt (% GDP),
+Poland,2025,Govt debt (% GDP),
+Poland,2024,Govt debt (% GDP),
+Poland,2023,Govt debt (% GDP),
+Poland,2022,Govt debt (% GDP),
+Poland,2021,Govt debt (% GDP),
+Poland,2020,Govt debt (% GDP),
+Poland,2019,Govt debt (% GDP),
+Poland,2018,Govt debt (% GDP),
+Poland,2017,Govt debt (% GDP),
+Poland,2016,Govt debt (% GDP),
+Poland,2015,Govt debt (% GDP),
+Saudi Arabia,2025,Govt debt (% GDP),
+Saudi Arabia,2024,Govt debt (% GDP),
+Saudi Arabia,2023,Govt debt (% GDP),
+Saudi Arabia,2022,Govt debt (% GDP),
+Saudi Arabia,2021,Govt debt (% GDP),
+Saudi Arabia,2020,Govt debt (% GDP),
+Saudi Arabia,2019,Govt debt (% GDP),
+Saudi Arabia,2018,Govt debt (% GDP),
+Saudi Arabia,2017,Govt debt (% GDP),
+Saudi Arabia,2016,Govt debt (% GDP),
+Saudi Arabia,2015,Govt debt (% GDP),
+Turkey,2025,Govt debt (% GDP),
+Turkey,2024,Govt debt (% GDP),25.5128667788107
+Turkey,2023,Govt debt (% GDP),31.1237728765421
+Turkey,2022,Govt debt (% GDP),35.3300843740665
+Turkey,2021,Govt debt (% GDP),41.6375124693568
+Turkey,2020,Govt debt (% GDP),41.0396523893444
+Turkey,2019,Govt debt (% GDP),33.4600744570718
+Turkey,2018,Govt debt (% GDP),29.3999927208091
+Turkey,2017,Govt debt (% GDP),29.5734179673603
+Turkey,2016,Govt debt (% GDP),30.075201418508
+Turkey,2015,Govt debt (% GDP),29.145145266046
+South Africa,2025,Govt debt (% GDP),
+South Africa,2024,Govt debt (% GDP),82.7627080034486
+South Africa,2023,Govt debt (% GDP),79.4140619824567
+South Africa,2022,Govt debt (% GDP),76.2333180266081
+South Africa,2021,Govt debt (% GDP),74.0826080051444
+South Africa,2020,Govt debt (% GDP),75.7255090793216
+South Africa,2019,Govt debt (% GDP),64.5892781351104
+South Africa,2018,Govt debt (% GDP),59.1023114070608
+South Africa,2017,Govt debt (% GDP),56.2597208390879
+South Africa,2016,Govt debt (% GDP),53.7387913884354
+South Africa,2015,Govt debt (% GDP),52.6511572360833
+Egypt,2025,Tax revenue (% GDP),
+Egypt,2024,Tax revenue (% GDP),
+Egypt,2023,Tax revenue (% GDP),
+Egypt,2022,Tax revenue (% GDP),
+Egypt,2021,Tax revenue (% GDP),
+Egypt,2020,Tax revenue (% GDP),
+Egypt,2019,Tax revenue (% GDP),
+Egypt,2018,Tax revenue (% GDP),
+Egypt,2017,Tax revenue (% GDP),
+Egypt,2016,Tax revenue (% GDP),
+Egypt,2015,Tax revenue (% GDP),12.5192110970171
+Kazakhstan,2025,Tax revenue (% GDP),
+Kazakhstan,2024,Tax revenue (% GDP),
+Kazakhstan,2023,Tax revenue (% GDP),11.8924774148637
+Kazakhstan,2022,Tax revenue (% GDP),12.0616921106992
+Kazakhstan,2021,Tax revenue (% GDP),9.44711136309549
+Kazakhstan,2020,Tax revenue (% GDP),8.3188093138288
+Kazakhstan,2019,Tax revenue (% GDP),11.78694274063
+Kazakhstan,2018,Tax revenue (% GDP),11.7177995865876
+Kazakhstan,2017,Tax revenue (% GDP),10.3030113756124
+Kazakhstan,2016,Tax revenue (% GDP),9.92425019653
+Kazakhstan,2015,Tax revenue (% GDP),9.8357115521941
+Nigeria,2025,Tax revenue (% GDP),
+Nigeria,2024,Tax revenue (% GDP),
+Nigeria,2023,Tax revenue (% GDP),
+Nigeria,2022,Tax revenue (% GDP),
+Nigeria,2021,Tax revenue (% GDP),
+Nigeria,2020,Tax revenue (% GDP),
+Nigeria,2019,Tax revenue (% GDP),
+Nigeria,2018,Tax revenue (% GDP),
+Nigeria,2017,Tax revenue (% GDP),
+Nigeria,2016,Tax revenue (% GDP),
+Nigeria,2015,Tax revenue (% GDP),
+Poland,2025,Tax revenue (% GDP),
+Poland,2024,Tax revenue (% GDP),17.389703708732
+Poland,2023,Tax revenue (% GDP),17.9988487014512
+Poland,2022,Tax revenue (% GDP),17.1225309189416
+Poland,2021,Tax revenue (% GDP),18.9590677200004
+Poland,2020,Tax revenue (% GDP),17.291144093996
+Poland,2019,Tax revenue (% GDP),17.1407592886385
+Poland,2018,Tax revenue (% GDP),17.1848218488937
+Poland,2017,Tax revenue (% GDP),16.7355756807269
+Poland,2016,Tax revenue (% GDP),16.2090291324573
+Poland,2015,Tax revenue (% GDP),15.6135953190934
+Saudi Arabia,2025,Tax revenue (% GDP),
+Saudi Arabia,2024,Tax revenue (% GDP),8.09115587851805
+Saudi Arabia,2023,Tax revenue (% GDP),7.80440222909766
+Saudi Arabia,2022,Tax revenue (% GDP),6.95344592187722
+Saudi Arabia,2021,Tax revenue (% GDP),8.60534583399363
+Saudi Arabia,2020,Tax revenue (% GDP),7.87620064642857
+Saudi Arabia,2019,Tax revenue (% GDP),6.60159133895093
+Saudi Arabia,2018,Tax revenue (% GDP),7.91853379846948
+Saudi Arabia,2017,Tax revenue (% GDP),3.14428407190292
+Saudi Arabia,2016,Tax revenue (% GDP),3.1718920134997
+Saudi Arabia,2015,Tax revenue (% GDP),3.1461706015912
+Turkey,2025,Tax revenue (% GDP),
+Turkey,2024,Tax revenue (% GDP),17.6239296509985
+Turkey,2023,Tax revenue (% GDP),18.2219303847288
+Turkey,2022,Tax revenue (% GDP),17.1801094099965
+Turkey,2021,Tax revenue (% GDP),17.4752698156496
+Turkey,2020,Tax revenue (% GDP),17.4856241853484
+Turkey,2019,Tax revenue (% GDP),16.5299780625183
+Turkey,2018,Tax revenue (% GDP),17.1432984711192
+Turkey,2017,Tax revenue (% GDP),17.7025349976444
+Turkey,2016,Tax revenue (% GDP),18.3280078863935
+Turkey,2015,Tax revenue (% GDP),18.1419244166015
+South Africa,2025,Tax revenue (% GDP),
+South Africa,2024,Tax revenue (% GDP),25.8775949092475
+South Africa,2023,Tax revenue (% GDP),25.3996646845665
+South Africa,2022,Tax revenue (% GDP),26.0196744256587
+South Africa,2021,Tax revenue (% GDP),25.9501542020771
+South Africa,2020,Tax revenue (% GDP),23.2649440409195
+South Africa,2019,Tax revenue (% GDP),24.8673453267976
+South Africa,2018,Tax revenue (% GDP),24.8948940727422
+South Africa,2017,Tax revenue (% GDP),24.76928728931
+South Africa,2016,Tax revenue (% GDP),24.8283559884696
+South Africa,2015,Tax revenue (% GDP),25.0486927031144
